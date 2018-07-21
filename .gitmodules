@@ -1,0 +1,3 @@
+[submodule "LCLocalizationDevEnd/Assets/Plugins/lc-localization"]
+	path = LCLocalizationDevEnd/Assets/Plugins/lc-localization
+	url = https://github.com/Begounet/lc-localization.git
